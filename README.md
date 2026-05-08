@@ -2,6 +2,8 @@
 
  **`Full Stack Developer | React.js | Node.js | TypeScript`**
 
+ ## Overview
+ 
 Passionate Full Stack Developer with experience in building responsive, scalable, and high-performance web applications using React.js, Node.js, Express.js, PostgreSQL, and TypeScript.
 
 Focused on writing clean code, building reusable components, and creating seamless user experiences.
@@ -62,26 +64,19 @@ Web application for verifying news authenticity using external APIs.
 ## Tech Stack
 
 ### Frontend
-React.js • JavaScript • TypeScript • Redux • Tailwind CSS
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=light)](https://skillicons.dev)
 
 ### Backend
-Node.js • Express.js • REST APIs • JWT
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
 
 ### Database
-PostgreSQL • MongoDB
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://skillicons.dev)
 
 ### Tools
-Git • GitHub • Postman • VS Code
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light)](https://skillicons.dev)
 
 ---
 
 ## Connect With Me
 
-LinkedIn:
-https://linkedin.com/in/adarsh-sharma7017
-
-GitHub:
-https://github.com/Adarsh457
-
-Email:
-adarshsharma9181@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=linkedin,github,gmail,&theme=light)](https://skillicons.dev)
