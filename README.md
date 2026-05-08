@@ -79,4 +79,14 @@ Web application for verifying news authenticity using external APIs.
 
 ## Connect With Me
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,github,gmail,&theme=light)](https://skillicons.dev)
+<a href="https://www.linkedin.com/in/adarsh-sharma7017/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Adarsh457" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:adarshsharma9181@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
