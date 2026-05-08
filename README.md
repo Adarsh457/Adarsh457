@@ -1,6 +1,6 @@
 # Adarsh Sharma
 
-## Full Stack Developer | React.js | Node.js | TypeScript
+ **`Full Stack Developer | React.js | Node.js | TypeScript`**
 
 Passionate Full Stack Developer with experience in building responsive, scalable, and high-performance web applications using React.js, Node.js, Express.js, PostgreSQL, and TypeScript.
 
