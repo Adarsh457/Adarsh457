@@ -1,6 +1,6 @@
 # Adarsh Sharma
 
- **`Full Stack Developer | React.js | Node.js | TypeScript`**
+ **`Full Stack Developer | Building Scalable Web Applications | Exploring Python & Agentic AI`**
 
  ## Overview
  
