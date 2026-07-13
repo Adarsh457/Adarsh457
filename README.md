@@ -1,7 +1,7 @@
 # Adarsh Sharma
 
  **`Full Stack Developer | Building Scalable Web Applications | Exploring Python & Agentic AI`**
-# 💫 About Me:
+# 💫 Overview:
 Passionate Full Stack Developer with experience in building responsive, scalable, and high-performance web applications using React.js, Node.js, Express.js, PostgreSQL, and TypeScript.<br><br>Focused on writing clean code, building reusable components, and creating seamless user experiences.<br><br>
 
 
